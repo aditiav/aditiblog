@@ -25,7 +25,7 @@ SECRET_KEY = '^-3^)ts+vea#!n-jttp=ut&v0631d4ddwyb8tl#g57f8o(8cb8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'aditi_av.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'aditiav.pythonanywhere.com']
 
 
 # Application definition
